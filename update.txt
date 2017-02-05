@@ -1,0 +1,1 @@
+{ "rs_code":"0","totalRecordCount":"2","mydata":[{"ad_pic":"2017120189339249.jpg","ad_url":"http://abc.webbiao.com","adddate":"2016-6-15 19:06:20","url":"http://abc.webbiao.com/userfujian/2017120189339249.jpg"},{"ad_pic":"2017120330595406.jpg","ad_url":"http://abc.webbiao.com","adddate":"2015-7-17 8:44:31","url":"http://abc.webbiao.com/userfujian/2017120330595406.jpg"}]}
