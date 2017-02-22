@@ -3,8 +3,8 @@
     "totalRecordCount": "1",
     "mydata": [
         {
-            "versionCode": 2,
-            "versionName": "1.2",
+            "versionCode": 4,
+            "versionName": "1.3",
             "bbmingcheng": "修复已知bug，新增友盟sdk",
             "dizhi": "http://jk.webbiao.com/cxb/201728554179412.apk"
         }
