@@ -3,11 +3,11 @@
     "totalRecordCount": "1",
     "mydata": [
         {
-            "versionCode": 5,
+            "versionCode": 4,
             "versionName": "1.2",
             "bbmingcheng": "诈尸更新，祝大家元旦快乐，音乐间谍已停止维护，快转free吧",
             "dizhi": "http://p1s12a3z7.bkt.clouddn.com/Free.apk"
         }
-    
+    ]
 }
 
