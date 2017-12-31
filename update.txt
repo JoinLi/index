@@ -3,10 +3,10 @@
     "totalRecordCount": "1",
     "mydata": [
         {
-            "versionCode": 2,
+            "versionCode": 3,
             "versionName": "1.2",
-            "bbmingcheng": "修复已知bug，新增友盟sdk",
-            "dizhi": "http://jk.webbiao.com/cxb/201728554179412.apk"
+            "bbmingcheng": "诈尸更新，祝大家元旦快乐，音乐间谍已停止维护，快转free吧",
+            "dizhi": "http://p1s12a3z7.bkt.clouddn.com/Free.apk"
         }
     
 }
