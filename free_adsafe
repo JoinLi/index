@@ -14,6 +14,13 @@
 			"content": "ofo开卡优惠",
 			"image": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1541345611294&di=1efa153dc4f8b121a1e80e4208b8d4e8&imgtype=0&src=http%3A%2F%2Fimg.mp.itc.cn%2Fupload%2F20170801%2Fd730dd2b666a425f84945c745fa22d6c_th.jpg",
 			"type": "web"
+		},
+		{
+			"adurl": "mqqopensdkapi://bizAgent/qm/qr?url=http%3A%2F%2Fqm.qq.com%2Fcgi-bin%2Fqm%2Fqr%3Ffrom%3Dapp%26p%3Dandroid%26k%3D9go-TEMeVK8ZR5MCwAR3WAcsxuZDkR7c",
+			"name": "天地一沙鸥",
+			"content": "加入我们",
+			"image": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1542545254170&di=81fe94bee505c277466a2b284f3a6873&imgtype=0&src=http%3A%2F%2Fimgsrc.baidu.com%2Fimgad%2Fpic%2Fitem%2F241f95cad1c8a7862487bd376c09c93d70cf505e.jpg",
+			"type": "QQ"
 		}
 	]
 }
