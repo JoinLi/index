@@ -9,6 +9,13 @@
 			"type": "web"
 		},
 		{
+			"adurl": "http://www.66haoquan.cn",
+			"name": "天地一沙鸥",
+			"content": "淘宝买商品，先到这里来领券！",
+			"image": "https://s2.ax1x.com/2019/03/18/AmNg3j.jpg",
+			"type": "web"
+		},
+		{
 			"adurl": "http://debugtbs.qq.com/",
 			"name": "天地一沙鸥",
 			"content": "x5内核调试教程\n1点击进入\n2安装线上版本\n解决大部分机型包含android9.0，x5内核无法加载、黑屏、无法全屏等问题。",
